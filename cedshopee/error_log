@@ -1,0 +1,144 @@
+[04-Mar-2022 15:26:07 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=28594 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[04-Mar-2022 15:32:16 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=28594 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[07-Mar-2022 15:22:51 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'error' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 183
+[07-Mar-2022 15:22:51 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'response' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[07-Mar-2022 15:22:51 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_info' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[07-Mar-2022 15:22:51 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_id' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[07-Mar-2022 15:25:47 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'error' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 183
+[07-Mar-2022 15:25:47 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'response' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[07-Mar-2022 15:25:47 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_info' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[07-Mar-2022 15:25:47 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_id' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[07-Mar-2022 15:46:11 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'error' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 183
+[07-Mar-2022 15:46:11 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'response' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[07-Mar-2022 15:46:11 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_info' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[07-Mar-2022 15:46:11 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_id' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[07-Mar-2022 15:49:47 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'error' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 183
+[07-Mar-2022 15:49:47 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'response' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[07-Mar-2022 15:49:47 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_info' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[07-Mar-2022 15:49:47 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_id' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[07-Mar-2022 17:13:51 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'error' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 183
+[07-Mar-2022 17:13:51 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'response' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[07-Mar-2022 17:13:51 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_info' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[07-Mar-2022 17:13:51 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_id' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[08-Mar-2022 16:14:02 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'error' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 183
+[08-Mar-2022 16:14:02 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'response' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[08-Mar-2022 16:14:02 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_info' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[08-Mar-2022 16:14:02 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_id' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[09-Mar-2022 15:21:25 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'error' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 183
+[09-Mar-2022 15:21:25 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'response' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[09-Mar-2022 15:21:25 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_info' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[09-Mar-2022 15:21:25 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_id' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[09-Mar-2022 15:48:24 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'error' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 183
+[09-Mar-2022 15:48:24 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'response' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[09-Mar-2022 15:48:24 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_info' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[09-Mar-2022 15:48:24 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_id' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[09-Mar-2022 17:05:37 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'error' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 183
+[09-Mar-2022 17:05:37 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'response' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[09-Mar-2022 17:05:37 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_info' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[09-Mar-2022 17:05:37 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_id' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[09-Mar-2022 17:08:44 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'error' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 183
+[09-Mar-2022 17:08:44 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'response' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[09-Mar-2022 17:08:44 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_info' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[09-Mar-2022 17:08:44 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_id' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[10-Mar-2022 17:11:01 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'error' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 183
+[10-Mar-2022 17:11:01 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'response' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[10-Mar-2022 17:11:01 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_info' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[10-Mar-2022 17:11:01 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_id' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[10-Mar-2022 17:14:31 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'error' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 183
+[10-Mar-2022 17:14:31 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'response' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[10-Mar-2022 17:14:31 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_info' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[10-Mar-2022 17:14:31 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_id' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[11-Mar-2022 05:12:14 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=2989 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[12-Mar-2022 00:27:30 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=1702 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[12-Mar-2022 00:44:40 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=20783 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[12-Mar-2022 00:59:29 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=7358 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[12-Mar-2022 01:02:03 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=20783 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[12-Mar-2022 01:12:06 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=7358 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[12-Mar-2022 01:45:43 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=16907 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[12-Mar-2022 01:45:59 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=4250 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[12-Mar-2022 01:50:52 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=16907 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[12-Mar-2022 01:52:21 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=4250 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[12-Mar-2022 01:58:26 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=4250 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[12-Mar-2022 03:48:01 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=32577 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[12-Mar-2022 15:32:44 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=25913 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[12-Mar-2022 16:02:08 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=27030 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[12-Mar-2022 16:12:55 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=14014 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[12-Mar-2022 16:15:48 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=1447 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[12-Mar-2022 16:18:42 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=14014 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[12-Mar-2022 18:18:37 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=8707 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[13-Mar-2022 00:28:05 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=12707 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[13-Mar-2022 00:29:01 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=29390 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[13-Mar-2022 00:38:35 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=29390 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[13-Mar-2022 01:36:03 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=28113 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[13-Mar-2022 01:48:31 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=28113 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[13-Mar-2022 03:19:10 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=4683 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[13-Mar-2022 04:17:21 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=30014 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[13-Mar-2022 04:19:15 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=17343 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[13-Mar-2022 04:32:41 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=3266 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[13-Mar-2022 05:07:45 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=10661 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[13-Mar-2022 06:08:38 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=16095 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[13-Mar-2022 16:34:39 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=27999 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[13-Mar-2022 17:01:39 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=1517 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[13-Mar-2022 17:08:23 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=1517 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[13-Mar-2022 17:33:33 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=8883 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[13-Mar-2022 18:49:14 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=11879 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[13-Mar-2022 19:24:03 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=18888 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[13-Mar-2022 19:29:50 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=5619 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[13-Mar-2022 19:32:33 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=18888 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[13-Mar-2022 19:53:04 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=5619 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[13-Mar-2022 20:14:21 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=13080 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[14-Mar-2022 01:19:56 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=20260 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[14-Mar-2022 01:25:40 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=7475 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[14-Mar-2022 01:31:23 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=20260 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[14-Mar-2022 01:53:51 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=26241 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[14-Mar-2022 02:26:18 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=2307 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[14-Mar-2022 03:57:11 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=13013 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[14-Mar-2022 04:02:23 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=24948 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[14-Mar-2022 04:13:05 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=30411 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[14-Mar-2022 04:19:19 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=13013 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[14-Mar-2022 04:21:13 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=30411 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[14-Mar-2022 05:16:55 Asia/Kuala_Lumpur] PHP Warning:  Error while sending QUERY packet. PID=25284 in /home/chs2012/public_html/classes/db/DbPDO.php on line 156
+[16-Mar-2022 16:13:16 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'error' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 183
+[16-Mar-2022 16:13:16 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'response' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[16-Mar-2022 16:13:16 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_info' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[16-Mar-2022 16:13:16 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_id' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[16-Mar-2022 17:06:40 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'error' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 183
+[16-Mar-2022 17:06:40 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'response' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[16-Mar-2022 17:06:40 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_info' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[16-Mar-2022 17:06:40 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_id' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[16-Mar-2022 17:13:30 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'error' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 183
+[16-Mar-2022 17:13:30 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'response' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[16-Mar-2022 17:13:30 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_info' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[16-Mar-2022 17:13:30 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_id' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[16-Mar-2022 17:13:36 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'error' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 183
+[16-Mar-2022 17:13:36 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'response' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[16-Mar-2022 17:13:36 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_info' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[16-Mar-2022 17:13:36 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_id' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[16-Mar-2022 17:42:34 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'error' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 183
+[16-Mar-2022 17:42:34 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'response' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[16-Mar-2022 17:42:34 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_info' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[16-Mar-2022 17:42:34 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_id' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[17-Mar-2022 17:12:39 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'error' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 183
+[17-Mar-2022 17:12:39 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'response' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[17-Mar-2022 17:12:39 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_info' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[17-Mar-2022 17:12:39 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_id' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[17-Mar-2022 17:12:57 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'error' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 183
+[17-Mar-2022 17:12:57 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'response' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[17-Mar-2022 17:12:57 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_info' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[17-Mar-2022 17:12:57 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_id' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[21-Mar-2022 17:15:09 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'error' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 183
+[21-Mar-2022 17:15:09 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'response' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[21-Mar-2022 17:15:09 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_info' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[21-Mar-2022 17:15:09 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_id' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[22-Mar-2022 16:38:46 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'error' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 183
+[22-Mar-2022 16:38:46 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'response' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[22-Mar-2022 16:38:46 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_info' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[22-Mar-2022 16:38:46 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_id' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[22-Mar-2022 16:42:40 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'error' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 183
+[22-Mar-2022 16:42:40 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'response' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[22-Mar-2022 16:42:40 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_info' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[22-Mar-2022 16:42:40 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_id' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[22-Mar-2022 17:13:03 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'error' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 183
+[22-Mar-2022 17:13:03 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'response' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[22-Mar-2022 17:13:03 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_info' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
+[22-Mar-2022 17:13:03 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'image_id' in /home/chs2012/public_html/modules/cedshopee/classes/CedShopeeProduct.php on line 184
